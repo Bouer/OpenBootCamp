@@ -1,0 +1,9 @@
+#Ejercicio 1 - Unidad 3
+
+x = 'Tortilla'
+y = 100
+z = "Pesos"
+print (x,"a $",y,z)
+print(type(x))
+print(type(y))
+print(type(z))
